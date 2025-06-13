@@ -15,8 +15,8 @@
 
     <distributionManagement>
         <repository>
-            <id>github</id>
-            <url>https://maven.pkg.github.com/papachi-one/tuntap4j</url>
+            <id>mitask-repo</id>
+            <url>https://maven.mitask.dev/releases/</url>
         </repository>
     </distributionManagement>
     
